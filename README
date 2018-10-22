@@ -6,7 +6,7 @@ Date Completed:
 	September 7, 2018
 
 Summary:
-	This program simulates a two-level memory cache with words read from a given
+  This program simulates a two-level memory cache with words read from a given
   text file. All items in the first level cache must be included in the
   second level cache. The program will print out the cache hit ratio, hits,
   and references for both the first and second level cache.
