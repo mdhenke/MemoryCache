@@ -1,9 +1,9 @@
 ----------------------------------Memory Cache----------------------------------
 Authors:
-	Marcus Henke
+  Marcus Henke
 
 Date Completed:
-	September 7, 2018
+  September 7, 2018
 
 Summary:
   This program simulates a two-level memory cache with words read from a given
