@@ -1,1 +1,26 @@
-test
+----------------------------------Memory Cache----------------------------------
+Authors:
+	Marcus Henke
+
+Date Completed:
+	September 7, 2018
+
+Summary:
+	This program simulates a two-level memory cache with words read from a given
+  text file. All items in the first level cache must be included in the
+  second level cache. The program will print out the cache hit ratio, hits,
+  and references for both the first and second level cache.
+
+Command Line Arguments & Usage:
+  For a single level cache, use:
+  java Test 1 <cache size> <input textfile name>
+
+  For a two-level cache, use:
+  java Test 2 <1st-level cache size> <2nd-level cache size> <input textfile name>
+
+	--The size of each cache array will be determined by <cache size>. Note that
+  if a two-level cache is used, the 2nd-level cache must be larger than the 1st.
+	--Words will be read in from the <input textfile name>. This name must be
+  exact.
+
+---------------------------------------------------------------------------------
